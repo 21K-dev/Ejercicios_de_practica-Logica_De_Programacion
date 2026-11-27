@@ -7,11 +7,16 @@
     <File Path="README.md" />
   </Folder>
   <Project Path="00-Sintaxis-lógica_de_trabajo_en_cpp/00-Sintaxis-lógica_de_trabajo_en_cpp.vcxproj" Id="efae86ee-999a-4d26-8c57-44a341c002ee" />
+  <Project Path="Arreglos/Arreglos.vcxproj" Id="97d4e253-4574-4e8d-97b6-04e511b96fd0" />
   <Project Path="Cajero_automatico/Ejercicio 3.vcxproj" Id="8493d5a4-26cd-409b-ab2f-3336ecfbfbe1" />
+  <Project Path="Curso_De_Programacion_ATS/Curso_De_Programacion_ATS.vcxproj" Id="7dbb5ac3-90cf-42e9-867d-ca8f3ea8dbb8" />
+  <Project Path="Ejercicios realizados de práctica en casa/Ejercicios realizados de práctica en casa.vcxproj" Id="8c6a069e-ce3d-419d-b26f-cee6c56bc24f" />
   <Project Path="Ejercicios_de_práctica-Blucles/Ejercicios_de_práctica-Blucles.vcxproj" Id="b5b3b675-87d9-4879-a1e9-b9f9c8f51c2a" />
   <Project Path="Gestion_de_Empleados_empresa_Dinamica/Gestion_de_Empleados_Empresa.vcxproj" Id="d9c296fd-2036-416b-bc41-3e3678062883" />
+  <Project Path="Libreria_Vector/Libreria_Vector.vcxproj" Id="5df99193-d933-45b0-9030-b3258b380592" />
   <Project Path="Mayor_de_tres_números/Ejercicio 4.vcxproj" Id="eaae8316-b06f-4bfb-b469-322e86f91595" />
   <Project Path="Número_par_o_impar/Ejercicio 1.vcxproj" Id="0fecf0aa-b8ba-4cd9-8b09-670eeea0ec69" />
+  <Project Path="POO_or_OPP/POO_or_OPP.vcxproj" Id="254b0d92-d821-4aef-adc1-353c85139cc9" />
   <Project Path="Semaforo/Ejercicio 5.vcxproj" Id="0a284350-60e9-4939-8ad8-a6f1bf8676cf" />
   <Project Path="Tablas_de_Multiplicacion/Tablas_de_Multiplicacion.vcxproj" Id="8365e883-24a8-4865-8619-fc923e4f537c" />
   <Project Path="Tienda_con_descuento/Ejercicio 2.vcxproj" Id="786c56d7-e6e5-4ec4-afbe-d67fbe7b9732" />
